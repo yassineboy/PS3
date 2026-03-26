@@ -1,4 +1,4 @@
-# YASSINE FLASH PS3 4.89-4.92
+# YASSINE FLASH PS3 4.89-4.93
 Credits:
 #PS3XploitTeam (esc0rtd3w - Habib - bguerville - Joonie)
 #PSX-PLACE (Contribution in PS3/PS4 Scene)
